@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="army">#60CEFF</color>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#007ac1</color>
+    <color name="green1">#80c904</color>
+    <color name="green2">#66a103</color>
+    <color name="blue">#03a9f4</color>
+    <color name="blue_dark">#007ac1</color>
+    <color name="grey">#9e9e9e</color>
+    <color name="grey_with_mask">#80ffffff</color>
+    <color name="error">#f44336</color>
+</resources>

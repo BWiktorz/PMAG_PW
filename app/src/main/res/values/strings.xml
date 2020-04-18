@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laborki</string>
+    <string name="no_accelerometer_detected">Nie wykryto akcelerometra</string>
+    <string name="play">System zablokowany</string>
+
+    <string name="enter_login">Wprowadź login</string>
+    <string name="wrong_login">Zły login!</string>
+    <string name="google_maps_key">AIzaSyDE2JPtuDe_-3hmpeTHsTp3iFqGkYl_u_I</string>
+
+</resources>
